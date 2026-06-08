@@ -4576,7 +4576,7 @@ blockquote {
 .footer-sitemap_heading {
   text-align: center;
   letter-spacing: -0.05em;
-  text-transform: uppercase;
+  text-transform: lowercase;
   justify-content: space-between;
   align-items: center;
   font-size: 10vw;
